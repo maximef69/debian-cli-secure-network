@@ -1,5 +1,5 @@
 # debian-cli-secure-network
-# Architecture Réseau Entreprise Segmentée
+# Architecture réseau entreprise segmentée
 
 ## Présentation du projet
 J'ai conçu et déployé une infrastructure réseau d'entreprise complète.
